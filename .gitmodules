@@ -1,0 +1,6 @@
+[submodule "themes/taciturn"]
+	path = themes/taciturn
+	url = git@github.com:nber1994/taciturn.git
+[submodule "content"]
+	path = content
+	url = git@github.com:nber1994/content.git
